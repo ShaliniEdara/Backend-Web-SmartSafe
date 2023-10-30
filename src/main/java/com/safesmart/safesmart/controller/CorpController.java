@@ -65,9 +65,6 @@ public class CorpController {
 			
 		}
 		dashboardInfo.setAllCorpsTodayInsertBillsAmount(grantTotal);
-		
-		
-		
 		return dashboardInfo;
 	}
 	
